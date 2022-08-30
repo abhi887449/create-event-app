@@ -11,7 +11,7 @@ function App() {
       <Eventstate>
         <Router>
         <Routes>
-              <Route exact path="/" element={<Home />}></Route>
+              <Route exact path="/create-event-app" element={<Home />}></Route>
               <Route exact path="/createevent" element={<Createevent/>}></Route>
               <Route exact path="/preview" element={<Preview/>}></Route>
             </Routes>

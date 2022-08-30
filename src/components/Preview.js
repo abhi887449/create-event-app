@@ -9,7 +9,7 @@ const Preview = (props) => {
     const eventitem = eventlistslocal[parseInt(etoprewiew) - 1];
     const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sept","Oct","Nov","Dec"]
     const handlesave = ()=>{
-        navigate("/")
+        navigate("/create-event-app")
     }
     const handleedit = ()=>{
         navigate("/createevent")

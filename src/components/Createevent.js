@@ -49,7 +49,7 @@ const Createevent = () => {
     return (
         <>
             <div className='flex flex-row mt-3'>
-                <Link to="/">
+                <Link to="/create-event-app">
                     <div className="flex mt-2 ml-2 md:ml-16">
                         <span className="p-[2px] text-blue-600 material-symbols-outlined">
                             arrow_back

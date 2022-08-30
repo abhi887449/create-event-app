@@ -29,7 +29,7 @@ const Home = () => {
     return (
         <div className="flex flex-row">
             <div className="bg-black h-screen w-[150px] sm:w-[300px]">
-                <Link to="/">
+                <Link to="/create-event-app">
                 <button className='h-9 sm:h-12 w-32 sm:w-60 bg-red-600 rounded-md text-white font-bold m-3 mt-8 sm:m-5 sm:mt-16'>Dashbord</button>
                 </Link>
             </div>
@@ -45,7 +45,7 @@ const Home = () => {
                 <h1 className="mt-5 font-bold text-2xl sm:text-3xl">Saved Events</h1>
                 <div className="flex flex-col sm:flex-row mt-4">
                     <input className='sm:w-60' type="number" name="delete" id="delete" placeholder='Enter Event number to delete.......' />
-                    <Link to="/">
+                    <Link to="/create-event-app">
                     <button className='sm:ml-3 h-10 w-28 sm:mr-2 text-md bg-red-500 hover:bg-red-700 text-white text-md hover:text-lg font-semibold rounded-lg mt-4' onClick={handledeleteevent}>Delete</button>
                     </Link>
                 </div>
