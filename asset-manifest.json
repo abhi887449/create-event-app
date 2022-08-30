@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/create-event-app/static/css/main.25f2231f.css",
+    "main.js": "/create-event-app/static/js/main.0c8f3817.js",
+    "static/js/787.9c7c57a6.chunk.js": "/create-event-app/static/js/787.9c7c57a6.chunk.js",
+    "index.html": "/create-event-app/index.html",
+    "main.25f2231f.css.map": "/create-event-app/static/css/main.25f2231f.css.map",
+    "main.0c8f3817.js.map": "/create-event-app/static/js/main.0c8f3817.js.map",
+    "787.9c7c57a6.chunk.js.map": "/create-event-app/static/js/787.9c7c57a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f2231f.css",
+    "static/js/main.0c8f3817.js"
+  ]
+}
